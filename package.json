@@ -7,12 +7,19 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "better-scroll": "^1.15.2",
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:Songyan992/mall.git",
+  "author": "songyan <songyan@tapai.tv>",
+  "license": "MIT"
 }
